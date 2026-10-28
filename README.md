@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Lin Namgung</h2>
 <p>I'm a 3rd-year Computer Science student at Hongik University, studying servers and interested in security.</p>
 <p><a href="https://github.com/namgunglin413"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;link=https://github.com/namgunglin413" alt="GitHub Badge"></a></p>
-<img align="right" src="https://raw.githubusercontent.com/namgunglin413/namgunglin413/main/images.jpeg" width="250" />
+<img align="right" src="https://raw.githubusercontent.com/namgunglin413/namgunglin413/main/images.jpeg" width="300" />
 <ul>
 <li>🎓 3rd-year Computer Science student at Hongik University.</li>
 <li>🧐 Learning about <strong>servers</strong>.</li>
