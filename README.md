@@ -16,13 +16,13 @@
 | 기간 | 구분 | 활동 | 내용 |
 |---|---|---|---|
 | 2026.09 ~ | 동아리 | SOPT | 서버 파트 활동 |
-| 2026.09 | 대회 | WANTED AI Championship 2026 | 이직 의사결정을 돕는 서비스 **[Backcast](https://wanted-ai-championship-2026.teddleekid.workers.dev/)** 개발 | |
-| 2026.08 ~ | 대회 | BMW 영 이노베이터 드림 프로젝트 | 예선 참가 (팀 커밋앤런). 무인도서 해양쓰레기 문제를 다루는 아이디어 **하루섬길** 기획 |
-| 2026.07 | 대회 | 산업통상부 공공데이터 활용 아이디어 공모전 | 온라인 리콜 제품 재유통 문제를 다루는 서비스 **리콜캐처** 아이디어 제시 |
-| 2026.07 | 대회 | 2026 국가데이터 활용대회 | 청년 '쉬었음'의 집단별·지역별 분포 분석 |
-| 2026.06 | 대회 | SK AI 임팩트 솔루션 | 골목상권의 친환경 실천을 돕는 AI 플랫폼 **EcoScan** 기획 (프론트엔드 담당) |
-| 2026.05 | 대회 | 경기도 공공데이터·AI 활용 창업경진대회 | 경기도 공공데이터 기반 맞춤 주거 추천 서비스 **경기라이프핏 AI** 아이디어 제시 |
-| 2026.05 | 대회 | 현대오토에버 베리어프리 앱 개발 콘테스트 | 디지털 취약계층의 스마트폰 사용을 돕는 AI 앱 **다시 청춘** 기획 (팀 핸즈온, 팀장) |
+| 2026.09 | 대회 | WANTED AI Championship 2026 | 이직 의사결정을 돕는 서비스 **[Backcast](https://wanted-ai-championship-2026.teddleekid.workers.dev/)** 개발 with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451)|
+| 2026.08 ~ | 대회 | BMW 영 이노베이터 드림 프로젝트 | 예선 참가 (팀 커밋앤런). 무인도서 해양쓰레기 문제를 다루는 아이디어 **하루섬길** 기획 with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451)|
+| 2026.07 | 대회 | 산업통상부 공공데이터 활용 아이디어 공모전 | 온라인 리콜 제품 재유통 문제를 다루는 서비스 **리콜캐처** 아이디어 제시 with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451)|
+| 2026.07 | 대회 | 2026 국가데이터 활용대회 | 청년 '쉬었음'의 집단별·지역별 분포 분석 with [@loda1002](https://github.com/loda1002)|
+| 2026.06 | 대회 | SK AI 임팩트 솔루션 | 골목상권의 친환경 실천을 돕는 AI 플랫폼 **EcoScan** 기획 (프론트엔드 담당) with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451)|
+| 2026.05 | 대회 | 경기도 공공데이터·AI 활용 창업경진대회 | 경기도 공공데이터 기반 맞춤 주거 추천 서비스 **경기라이프핏 AI** 아이디어 제시 with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451)|
+| 2026.05 | 대회 | 현대오토에버 베리어프리 앱 개발 콘테스트 | 디지털 취약계층의 스마트폰 사용을 돕는 AI 앱 **다시 청춘** 기획 (팀 핸즈온, 팀장) with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451)|
 | 2026.03 ~ 2026.08 | 동아리 | GDG Hongik Univ | 웹 프로그래밍 기초 학습 및 개발 스터디 참여 (기초 웹 개발, Git 버전 관리, 개발 환경 사용법) |
 
 <h2>🚀 Some Tools I Use</h2>
