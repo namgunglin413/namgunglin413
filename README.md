@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm Lin Namgung</h2>
+<h2>Hi 👋, I'm Lin Namgung</h2>
 <p>I'm a 3rd-year Computer Science student at Hongik University, studying servers and interested in security.</p>
 <p><a href="https://github.com/namgunglin413"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&amp;labelColor=181717&amp;logo=GitHub&amp;link=https://github.com/namgunglin413" alt="GitHub Badge"></a></p>
 <img align="right" src="https://raw.githubusercontent.com/namgunglin413/namgunglin413/main/images.jpeg" width="250" height="180" />
@@ -6,18 +6,18 @@
 <li>🎓 3rd-year Computer Science student at Hongik University.</li>
 <li>🧐 Learning about <strong>servers</strong>.</li>
 <li>🔐 Interested in <strong>security</strong>.</li>
-<li>👨‍💻 My projects are available on <a href="https://github.com/namgunglin413">Github</a>.</li>
+<li>👩‍💻 My projects are available on <a href="https://github.com/namgunglin413">Github</a>.</li>
 <li>💬 Ping me about <strong>servers and security</strong>.</li>
 </ul>
 <br clear="right">
 
-<h2>🏆 Activities</h2>
+<h2>🏃🏻‍♀️ Activities</h2>
 
 | 기간 | 구분 | 활동 | 내용 |
 |---|---|---|---|
 | 2026.09 ~ | 동아리 | SOPT | 서버 파트 활동 |
 | 2026.09 | 대회 | WANTED AI Championship 2026 | 이직 의사결정을 돕는 서비스 **[Backcast](https://wanted-ai-championship-2026.teddleekid.workers.dev/)** 개발 (with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451))|
-| 2026.08 ~ | 대회 | BMW 영 이노베이터 드림 프로젝트 | 예선 참가 (팀 커밋앤런). 무인도서 해양쓰레기 문제를 다루는 아이디어 **하루섬길** 기획 (with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451))|
+| 2026.08 ~ | 대회 | BMW 영 이노베이터 드림 프로젝트 | 본선 참가 (팀 커밋앤런). 무인도서 해양쓰레기 문제를 다루는 아이디어 **하루섬길** 기획 (with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451))|
 | 2026.07 | 대회 | 산업통상부 공공데이터 활용 아이디어 공모전 | 온라인 리콜 제품 재유통 문제를 다루는 서비스 **리콜캐처** 아이디어 제시 (with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451))|
 | 2026.07 | 대회 | 2026 국가데이터 활용대회 | 청년 '쉬었음'의 집단별·지역별 분포 분석 (with [@loda1002](https://github.com/loda1002))|
 | 2026.06 | 대회 | SK AI 임팩트 솔루션 | 골목상권의 친환경 실천을 돕는 AI 플랫폼 **EcoScan** 기획 (프론트엔드 담당) (with [@loda1002](https://github.com/loda1002), [@lde451](https://github.com/lde451))|
